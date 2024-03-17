@@ -2,8 +2,8 @@ George
 3/17/2024
 Jobs that Interest you
 Using React ts, react-router-dom, and react-bootstrap I was able to complete the necessary requirements for this assignment.
-Peer Reviewed By: 
-Peer Review: 
+Peer Reviewed By: Ashur Nanno
+Peer Review: Site looks simple and good I like how George chose the accordion design to display the section of the job fildes; but I think the homebage would look better if you fill the cards not just the names of teh company but also some the description then read more... other than that I like the clean jobe.. good job.
 
 # Getting Started with Create React App
 
